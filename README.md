@@ -7,7 +7,7 @@ A custom Waze voice pack featuring the voice of **Rory Mercury** from *Gate: Jie
 2. Open this page **on your phone**.
 3. Tap the link below:
 
-[Install Rory Mercury Voice V2](https://waze.com/ul?acvp=F81B5ADA-5C4E-4E41-AEEB-FEAF8B227B42)
+[Install Rory Mercury Voice V2](https://waze.com/ul?acvp=6D82A7A2-CE94-49C9-A43D-69DE6825DB1E)
 
 4. Waze should automatically open and install the voice pack.
 
