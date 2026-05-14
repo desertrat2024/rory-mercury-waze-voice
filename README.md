@@ -1,4 +1,4 @@
-# Rory Mercury Waze Voice Pack
+# Rory Mercury Waze Voice Pack Version 2
 
 A custom Waze voice pack featuring the voice of **Rory Mercury** from *Gate: Jieitai Kanochi nite, Kaku Tatakeri*.
 
@@ -7,7 +7,7 @@ A custom Waze voice pack featuring the voice of **Rory Mercury** from *Gate: Jie
 2. Open this page **on your phone**.
 3. Tap the link below:
 
-[Install Rory Mercury Voice](https://waze.com/ul?acvp=6e513d97-4285-42e2-9a61-e9b53baf7215)
+[Install Rory Mercury Voice](https://waze.com/ul?acvp=a8d5c734-7b01-4773-9460-77f8f38ae6da)
 
 4. Waze should automatically open and install the voice pack.
 
